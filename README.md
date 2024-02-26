@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anthonymathenge
 - 👀 I’m interested in Coding and Penetration testing
-- 🌱 I’m currently in my 2nd year at Swansea University studying Computer Science 
+- 🌱 I’m currently in my final year at Swansea University studying Computer Science 
 - 📫 How to reach me: Mranthonymathenge@gmail.com
 
 <!---
