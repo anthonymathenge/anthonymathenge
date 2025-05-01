@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Anthony Mathenge
 
-Welcome to my GitHub! I'm a Cybersecurity enthusiast, Data Coordinator, and an aspiring ServiceNow Developer based in Cardiff, UK. I have a strong foundation in IT systems, cybersecurity operations, and data analysis — and I'm continuously expanding my technical expertise to build impactful solutions.
+Welcome to my GitHub! I'm a Data Coordinator and an aspiring ServiceNow Developer based in Cardiff, UK. I have a strong foundation in IT systems, cybersecurity operations, and data analysis — and I'm continuously expanding my technical expertise to build impactful solutions.
 
 ## 🔥 About Me
 - 🎓 BSc (Hons) Computer Science Graduate — Swansea University (2024)
@@ -10,12 +10,11 @@ Welcome to my GitHub! I'm a Cybersecurity enthusiast, Data Coordinator, and an a
 - 🎯 Always curious, hands-on, and driven to solve real-world challenges through technology
 
 ## 🧠 Skills
+- **ServiceNow**: (Currently learning) Application Development, Workflow Automation, Scripting
 - **Cybersecurity**: Incident Response | SIEM Monitoring (Splunk) | EDR Tools | Vulnerability Assessments
 - **Cloud Basics**: AWS, Azure Fundamentals
 - **Programming**: Python | Java | Bash | HTML/CSS
-- **Frameworks**: MITRE ATT&CK | NIST | CIS Controls
 - **Data Skills**: SQL | Data Cleaning | Process Automation
-- **ServiceNow**: (Currently learning) Application Development, Workflow Automation, Scripting
 
 ## 📚 Certifications and Learning Paths
 - 🛡️ [TryHackMe: Junior Penetration Tester Learning Path](https://tryhackme.com/)
@@ -31,17 +30,15 @@ Welcome to my GitHub! I'm a Cybersecurity enthusiast, Data Coordinator, and an a
 ## 🌱 What I'm Learning Right Now
 - ServiceNow Developer Pathway (Scripting, App Engine Studio, Flow Designer)
 - Advanced Python scripting for automation
-- Deeper cloud platform integration (AWS, Azure) with ServiceNow
 
 ## 🧩 Interests
-- Red Teaming / Offensive Security Techniques
 - Risk Management and Governance
 - Digital Transformation and Automation
 - Empowering businesses with better, safer technology solutions
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/anthonymathenge) — Always open to networking!
-- Email: anthonymathenge@email.com
+- [LinkedIn](https://www.linkedin.com/in/anthony-mathenge-413289255/)— Always open to networking!
+- Email: Mranthonymathenge@email.com
 
 ---
 
