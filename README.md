@@ -1,4 +1,4 @@
-# Anthony is what they call me
+# Anthony is what they call me...
 
 - I'm a Data Analyst, coder and aspiring ServiceNow Developer. I’m currently developing my technical skills and challenging myself with hands-on projects alongside my day job.
 
